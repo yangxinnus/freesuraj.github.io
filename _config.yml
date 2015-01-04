@@ -1,10 +1,12 @@
 url: https://freesuraj.github.io
-baseurl:
+baseurl: ""
 
 # Site settings
 title: Laohan
 email: freesuraj@gmail.com
+name:  "Laohan, an old hero"
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+blog_description: "Gossip with an old developer"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -14,57 +16,98 @@ color:
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
-  pic: 1
-  position: Lead Designer
+- name: S Pathak
+  pic: suraj
+  position: Lead Architect
   social:
     - title: twitter
-      url: #
+      url: www.twitter.com/freesuraj
     - title: facebook
-      url: #
+      url: www.facebook.com/freesuraj
     - title: stack-overflow
-      url: #
+      url: www.stack-overflow.com/freesuraj
 
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
-
-- name: Diana Petersen
-  pic: 3
+- name: Jack Yang
+  pic: jack
   position: Lead Developer
   social:
     - title: twitter
       url: #
     - title: facebook
+      url: www.facebook.com/yangxinnus
+    - title: linkedin
+      url: http://sg.linkedin.com/pub/jack-yang/15/993/904
+
+- name: Jared Zhang
+  pic: jared
+  position: Lead Developer
+  social:
+    - title: twitter
       url: #
-    - title: google-plus
-      url: #
+    - title: facebook
+      url: https://www.facebook.com/zhuodong.zhang
+    - title: linkedin
+      url: http://sg.linkedin.com/in/jaredzhang09
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: http://twitter.com/freesuraj
   - title: facebook
-    url:
+    url: 
   - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
+    url: http://stackoverflow.com/questions/tagged/freesuraj
   - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+    url: http://bitbucket.org/freesuraj
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/freesuraj
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 47 Scotts Road
+  - line: Goldbell Tower, Singapore
 
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+# Portfolio Information
+portfolios:
+- title: Round Icons
+  subtitle: Graphic Design
+  layout: post
+  modal-id: 6
+  date: 2014-07-15
+  img: roundicons.png
+  thumbnail: roundicons-thumbnail.png
+  alt: image-alt
+  project-date: April 2014
+  client: Start Bootstrap
+  category: Web Development
+  description: Lorem ipsum dolor sit amet , usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+
+- title: Startup Framework
+  subtitle: Website Design
+  layout: post
+  modal-id: 5
+  date: 2014-07-14
+  img: startup-framework.png
+  thumbnail: startup-framework-thumbnail.png
+  alt: image-alt
+  project-date: April 2014
+  client: Start Bootstrap
+  category: Web Development
+  description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+
+- title: Treehouse
+  subtitle: Website Design
+  layout: post
+  modal-id: 4
+  date: 2014-07-15
+  img: treehouse.png
+  thumbnail: treehouse-thumbnail.png
+  alt: image-alt
+  project-date: April 2014
+  client: Start Bootstrap
+  category: Web Development
+  description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
