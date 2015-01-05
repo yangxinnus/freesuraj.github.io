@@ -33,8 +33,8 @@ people:
   social:
     - title: twitter
       url: #
-    - title:  http://facebook.com/facebook
-      url: yangxinnus
+    - title: facebook
+      url: http://facebook.com/yangxinnus
     - title: linkedin
       url: http://sg.linkedin.com/pub/jack-yang/15/993/904
 
@@ -44,8 +44,8 @@ people:
   social:
     - title: twitter
       url: #
-    - title:  http://facebook.com/facebook
-      url: zhuodong.zhang
+    - title: facebook
+      url: http://facebook.com/facebook
     - title: linkedin
       url: http://sg.linkedin.com/in/jaredzhang09
 
