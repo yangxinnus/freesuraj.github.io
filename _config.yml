@@ -21,11 +21,11 @@ people:
   position: Lead Architect
   social:
     - title: twitter
-      url: www.twitter.com/freesuraj
+      url: freesuraj
     - title: facebook
-      url: www.facebook.com/freesuraj
+      url: freesuraj
     - title: stack-overflow
-      url: www.stack-overflow.com/freesuraj
+      url: freesuraj
 
 - name: Jack Yang
   pic: jack
@@ -34,7 +34,7 @@ people:
     - title: twitter
       url: #
     - title: facebook
-      url: www.facebook.com/yangxinnus
+      url: yangxinnus
     - title: linkedin
       url: http://sg.linkedin.com/pub/jack-yang/15/993/904
 
@@ -45,7 +45,7 @@ people:
     - title: twitter
       url: #
     - title: facebook
-      url: https://www.facebook.com/zhuodong.zhang
+      url: zhuodong.zhang
     - title: linkedin
       url: http://sg.linkedin.com/in/jaredzhang09
 
