@@ -3,28 +3,12 @@ Hello Laohan
 
 Agency theme based on [Agency bootstrap theme ](http://startbootstrap.com/templates/agency/)
 
-# How to use
+# How to Add a new blog post
 
-###Portfolio 
+Jekyll uses the posts in _posts folder as blog posts.
 
-Portfolio projects are in '/_posts'
+Create a new file under _posts folder, name it in the format `YYYY-MM-DD-PostTitle.markdown` and write the contents in markdown language.
 
-Images are in '/img/portfolio'
+Add additional info within two ==== lines (see existing post).
 
-###About
-
-Images are in '/img/about/'
-
-###Team
-
-Team members and info are in '_config.yml'
-
-Images are in '/img/team/'
-
-
-# Demo
-
-View this jekyll theme in action [here](https://y7kim.github.io/agency-jekyll-theme)
-
-=========
-For more details, read [documentation](http://jekyllrb.com/)
+Jekyll doesn't use any database, hence information like title, author, date are all written within the markdown file.
